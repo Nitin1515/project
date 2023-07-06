@@ -1,12 +1,44 @@
-h1{
+h1{ 
+    padding: 10px;
     color: chocolate;
 }
 body{
     background-color: pink;
 }
+ul{
+    background-color: aqua;
+    padding-left: 10px;
+}
 p{
     color: black;
+    background-color: antiquewhite;
+    border-style: double;
+    border-width: 10px;
+    margin: 10px 20px 30px 40px;
 }
 h2{
     color: purple;
+}
+h3{
+    padding-left: 10px;
+    color: coral;
+    background-color: aquamarine;
+    border-style: dashed;
+    border-color: #157;
+    border-width: 5px;
+    margin: 20px 30px 40px 50px;
+}
+p1{ color: black;
+    background-color: antiquewhite;
+    border-style: double;
+    border-width: 10px;
+    margin: 10px 20px 30px 40px;
+
+}
+p2{color: black;
+    background-color: antiquewhite;
+    border-style: double;
+    border-width: 10px;
+    margin: 10px 20px 30px 40px;
+
 }
