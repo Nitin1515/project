@@ -7,14 +7,21 @@ body{
 }
 ul{
     background-color: aqua;
+    width: 200px;
     padding-left: 10px;
+    border-style: inset;
+    border-width: 15px;
+    border-color: blue;
+    
 }
 p{
     color: black;
     background-color: antiquewhite;
-    border-style: double;
+    width: 200px;
+    border-style: ridge;
     border-width: 10px;
-    margin: 10px 20px 30px 40px;
+    margin: 5px 10px 30px 40px;
+    padding-left: 10px;
 }
 h2{
     color: purple;
@@ -23,6 +30,7 @@ h3{
     padding-left: 10px;
     color: coral;
     background-color: aquamarine;
+    width: 100px;
     border-style: dashed;
     border-color: #157;
     border-width: 5px;
@@ -30,15 +38,21 @@ h3{
 }
 p1{ color: black;
     background-color: antiquewhite;
+    width: 200px;
+    margin: 10px 20px 30px 30px;
+
+}
+p2{color: black;
+    background-color:#255;
     border-style: double;
     border-width: 10px;
     margin: 10px 20px 30px 40px;
 
 }
-p2{color: black;
-    background-color: antiquewhite;
-    border-style: double;
-    border-width: 10px;
-    margin: 10px 20px 30px 40px;
+img{padding-left: 50px;}
+li{color: black;
+    background-color: aqua;
+    width: 200px;
+    
 
 }
