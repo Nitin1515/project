@@ -1,3 +1,6 @@
+let message=""
+let messageEl=document.getElementById("message-el")
+console.log(messageEl)
 function submit(){
-    console.log("Order Placed")
+    message="order placed successfully!!"
 }
